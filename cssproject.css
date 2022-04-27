@@ -1,0 +1,56 @@
+body{
+    background-image: url("back.jfif");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: cursive;
+    font-size: 55px;
+    text-shadow: 10px 5px 5px yellow;
+
+}
+ul{
+    list-style-type: none;
+    margin: 49px;
+    padding: 20px;
+    overflow: hidden;
+    background-color :darkred;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    color: lavender;
+    text-align: center;
+    padding: 14px 16px;
+    text-shadow: 3px 3px 3px pink;
+
+}
+li a:hover{
+    background-color:blue;
+
+}
+img{
+    border-radius: 50%;
+    
+}
+.pic{
+    margin: 6px;
+    float: left;
+    width: 350px;
+
+}
+.info{
+    font-size: 25px;
+    font-family: sans-serif;
+    color:black;
+}
+div.pic:hover{
+    background-color:coral;
+    border: solid;
+
+}
